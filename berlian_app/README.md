@@ -24,16 +24,14 @@ Cannot canceling/undo while deleting agenda.
 ### Mobileview
 
 
-<img src = "https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/loginM.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainM2.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainM3.jpeg" height = "400"/>  
-
-<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/addM.jpeg" height="400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/deletem.jpeg" height="400"/>
+<img src = "https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/loginM.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainM2.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainM3.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/addM.jpeg" height="400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/deletem.jpeg" height="400"/>
 
 ### Webview
 
-<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainpage.jpeg"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/add.jpeg"/>
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainpage.jpeg" width="500"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/add.jpeg" width="500"/>
 
-<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/delete.jpeg"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mark.jpeg" /> 
-<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/edit.jpeg"/>
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/delete.jpeg" width="500"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mark.jpeg" width="500" /> 
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/edit.jpeg" width="500"/>
 
 
 
