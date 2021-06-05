@@ -1,6 +1,8 @@
+Welcome to the agenda-manager-using-flutter wiki!
+
 # berlian_app (Agenda Manager)
 
-A new Flutter project.
+A Flutter project.
 Using slimy_card package (https://pub.dev/packages/slimy_card)
 
 Had Mobile and Web look view.
@@ -18,17 +20,21 @@ Not yet integrated with any database, all changes inside the app will be lost on
 The agenda's date data in this ap using String datatype with dd-MM-yyyy formatting.
 Cannot canceling/undo while deleting agenda.
 
-## Getting Started
+## UI
+### Mobileview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src = "https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/loginM.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainM2.jpeg" height = "400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainM3.jpeg" height = "400"/>  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/addM.jpeg" height="400"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/deletem.jpeg" height="400"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# berlian_app
+### Webview
+
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mainpage.jpeg"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/add.jpeg"/>
+
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/delete.jpeg"/> <img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/mark.jpeg" /> 
+<img src="https://github.com/beeerlian/agenda-manager-using-flutter/blob/Flutters-Repo/berlian_app/assets/Screenshot/berlian_app_ui/edit.jpeg"/>
+
+
+
 
